@@ -229,7 +229,7 @@ body {
     border-radius: 15px;
     padding-bottom: 1rem;
     background-color: hsl(0, 0%, 27%);
-    height: 25vh;
+    height: auto;
     margin-top: 2rem;
     flex-direction: column;
   }
